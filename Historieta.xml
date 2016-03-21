@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<historieta>
+	<nombre>Esa historia</nombre>
+	<descripcion>Es una historia de momentos inolvidables</descripcion>
+	<author>Juan Miguel</author>
+	<contribuyentes>
+		<user>Ana Teresa</user>
+		<user>Tambor</user>
+		<user>Chester</user>
+	</contribuyentes>
+	<cuadros>
+
+		<c id="1">
+			<personaje>1</personaje>
+			<personaje>4</personaje>
+		</c>
+
+		<c id="2">
+			<personaje>2</personaje>
+			<personaje>1</personaje>
+		</c>
+
+		<c id="3">
+			<personaje>1</personaje>
+			<personaje>2</personaje>
+		</c>
+
+	</cuadros>
+</historieta>
